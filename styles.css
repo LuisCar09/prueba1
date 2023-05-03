@@ -1,5 +1,6 @@
 body{
-    align-items: center;
+    margin: 0px;
+    text-align: center;
     background-color: aqua;
     color: brown;
     font-size: 30px;
